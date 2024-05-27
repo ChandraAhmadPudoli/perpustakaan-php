@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aplikasi Perpustakaan</title>
+    <title>Aplikasi Perpustakaan V.2</title>
 </head>
 <body>
     <h1>Aplikasi Perpustakaan</h1>
